@@ -11,7 +11,7 @@ raceConditionBankLock.py
 ```
 globalContador.py
 ```
-El siguente programa lanza un conjunto de threads cuyo código es un contador que incrementa una variable glogal una determinada cantidad. El resultado del programa es la impresión del contenido final de la variable global  **contador**
+El siguente programa lanza un conjunto de threads cuyo código es un contador que incrementa una variable global (*contador*) una cierta cantidad de veces. El resultado del programa es la impresión del contenido final de la variable global.
 
 Leer y analizar el código y tratar de deducir que hace cada bloque.
 
